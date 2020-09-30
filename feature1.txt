@@ -2,3 +2,6 @@ feature1 branch text
 
 
 some more text by local computer
+
+
+feature1 text in feature1
