@@ -5,3 +5,5 @@ some more text by local computer
 
 
 merged change in master from both f1 and f2
+
+feature1 branch change into feature1 file
